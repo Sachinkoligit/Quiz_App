@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: linear-gradient(#d8c7ff, #19006c);
+  font-family: "Libre Baskerville";
+}
+.correct {
+  background-color: greenyellow;
+}
+.incorrect {
+  background-color: lightcoral;
+}
